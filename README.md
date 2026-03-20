@@ -1,4 +1,4 @@
-<img width="1899" height="904" alt="Screenshot 2026-03-20 161559" src="https://github.com/user-attachments/assets/09ecccaa-cd8a-40f8-aa65-a4dca677f45a" /># 🧠 Prediction Market on Stellar (Soroban)
+# 🧠 Prediction Market on Stellar (Soroban)
 
 ## 📌 Project Description
 
